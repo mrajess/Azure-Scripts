@@ -1,0 +1,1 @@
+This script will enable Azure Hybrid Use Benefits on all HUB supported instances of Azure SQL. 
