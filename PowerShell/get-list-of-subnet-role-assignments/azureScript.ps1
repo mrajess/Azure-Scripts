@@ -1,11 +1,11 @@
 # The name of the role you're wanting to query on. Format follows "Owner".
-$queriedRole = "Owner"
+$queriedRole = 
 
 # Name of the file and path for which you want said file exported to. Format follows "C:\exampleDirectory\exampleFile.csv".
 
-$exportPath = "C:\Users\mrajess\Documents\TempOutput\results.csv"
+$exportPath = 
 
-#Connect-AzAccount
+Connect-AzAccount
 
 $subscriptions = Get-AzSubscription
 
